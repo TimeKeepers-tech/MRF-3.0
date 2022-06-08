@@ -2,7 +2,7 @@
 /********* General CSS *********/
 /*******************************/
 body {
-    color: #666666;
+    color:#c90067;
     background: #dddddd;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -20,7 +20,7 @@ h6 {
 h3 { font-size: 18px;
     line-height: 29px;
     text-align: justify;
-    color: #b8b8b8;
+    color: #c90067;
 }
 
 h7 {
@@ -490,7 +490,7 @@ a:focus {
 
 .section-header p {
     color: #fdbe33;
-    font-size: 18px;
+    font-size: 34px;
     font-weight: 600;
     margin-bottom: 5px;
 }
@@ -1229,9 +1229,9 @@ a:focus {
 }
 
 .testimonial .testimonial-slider h4 {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
-    color: #ffffff;
+    color: #c90067;
     font-style: italic;
     margin-bottom: 10px;
 }
@@ -1241,7 +1241,7 @@ a:focus {
     font-size: 16px;
     font-weight: 300;
     margin: 0;
-    text-align: justify;
+    text-align: center;
 }
 
 
