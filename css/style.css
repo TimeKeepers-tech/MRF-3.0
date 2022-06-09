@@ -33,6 +33,12 @@ font-size: 20px;
 text-align: center;
 color: #0c2957;}
 
+h9
+{
+    color: #47194e;
+    font-size: 36px;
+}
+
 a {
     color: #000000;
     transition: .3s;
@@ -498,7 +504,7 @@ a:focus {
 .section-header h2 {
     margin: 0;
     position: relative;
-    font-size: 50px;
+    font-size: 34px;
     font-weight: 700;
 }
 
@@ -668,7 +674,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0;
-    background: linear-gradient(rgba(164, 37, 106, 1), rgba(3, 15, 39, .9)), url(../img/carousel-2.jpg);
+    background: linear-gradient(rgba(76, 26, 84, 0.91), rgba(76, 26, 84, 0.91)), url(../img/carousel-2.jpg);
 }
 
 .fact .col-6 {
@@ -1051,7 +1057,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0;
-    background: linear-gradient(rgba(201, 0, 103, 0.75), rgba(3, 15, 39, .9)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgba(76, 26, 84, 0.91), rgba(76, 26, 84, 0.91)), url(../img/carousel-1.jpg);
 }
 
 .faqs .row {
@@ -1160,7 +1166,7 @@ a:focus {
     margin: 0px 0;
     padding: 90px 0;
     text-align: center;
-    background: linear-gradient(rgba(180, 40, 115, 1), rgba(3, 15, 39, .9)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgba(76, 26, 84, 0.91), rgba(76, 26, 84, 0.91)), url(../img/carousel-1.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -1226,12 +1232,13 @@ a:focus {
     color: #fdbe33;
     font-size: 22px;
     font-weight: 700;
+    text-align: center;
 }
 
 .testimonial .testimonial-slider h4 {
     font-size: 16px;
     font-weight: 300;
-    color: #ffffff;
+    color: #00ffd18a;
     font-style: italic;
     margin-bottom: 10px;
 }
@@ -1823,7 +1830,7 @@ a:focus {
 .portfolio .load-more .btn {
     cursor: pointer;
     display: inline-block;
-    margin: 5px;
+    margin: 6px;
     padding: 8px 15px;
     color: #0c2957;
     font-size: 14px;
@@ -1837,8 +1844,9 @@ a:focus {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #0c2957;
+    background: #4c1a54e8;
     color: #fdbe33;
+    height: 30px;
 }
 
 .portfolio .load-more {
@@ -1906,7 +1914,7 @@ a:focus {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #0c2957;
+    background: #4c1a54e8;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -1962,7 +1970,7 @@ a:focus {
 }
 
 .contact .col-md-6:first-child {
-    background: #0c2957;
+    background: #4c1a54e8;
 }
 
 .contact .col-md-6:last-child {
@@ -2059,7 +2067,7 @@ a:focus {
     font-size: 16px;
     font-weight: 600;
     color: #fdbe33;
-    background: #0c2957;
+    background: #4c1a54e8;
     border: none;
     border-radius: 0;
     transition: .3s;
@@ -2084,7 +2092,7 @@ a:focus {
     position: relative;
     margin-top: 0px;
     padding-top: 90px;
-    background: #0c2957;
+    background:#4c1a54e8;
     color: #ffffff;
 }
 
@@ -2190,7 +2198,7 @@ a:focus {
     font-weight: 500;
     text-transform: uppercase;
     color: #fdbe33;
-    background: #121518;
+    background: #4c1a54e8;
     border-radius: 0;
     border: 2px solid #fdbe33;
     transition: .3s;

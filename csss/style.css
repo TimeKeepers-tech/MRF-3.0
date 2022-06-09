@@ -194,7 +194,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  height: 100px;
+  height: 70px;
 }
 
 svg {
@@ -6165,7 +6165,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #1F1F2E !important;
+  background-color: #4c1a54e8 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
