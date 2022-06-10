@@ -17,7 +17,7 @@ h6 {
     font-size: 15px;
 }
 
-h3 { font-size: 18px;
+h3 { font-size: 17px;
     line-height: 29px;
     text-align: justify;
     color: #dfdfdf;
@@ -221,6 +221,7 @@ a:focus {
     background: #f8f9fa;
 }
 
+
 .nav-bar .btn {
     color: #ffffff;
     border: 2px solid #ffffff;
@@ -309,7 +310,7 @@ a:focus {
     height: 100%;
     top: 0;
     left: 0;
-    background: #00000042;
+    background: #00000014;
     z-index: 1;
 }
 
@@ -349,7 +350,7 @@ a:focus {
     background: transparent;
     border: 2px solid #ffffff;
     border-radius: 0;
-    transition: .3s;
+    transition: .2s;
 }
 
 .carousel .carousel-caption .btn:hover {
@@ -395,8 +396,8 @@ a:focus {
 }
 
 .carousel .animated {
-    -webkit-animation-duration: 1.5s;
-    animation-duration: 1.5s;
+    -webkit-animation-duration: 0.3s;
+    animation-duration: 0.3s;
 }
 
 
@@ -1896,7 +1897,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(3, 15, 39, .7);
+    background: #4c1a5400;
     transition: .5s;
     opacity: 0;
 }
