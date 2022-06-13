@@ -84,6 +84,7 @@ hr {
   margin-bottom: 1rem;
 }*/
 
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -152,7 +153,7 @@ sup {
 }
 
 a {
-  color: #0c2957;
+  color: #ffffffe0;
   text-decoration: none;
   background-color: transparent;
 }
@@ -194,7 +195,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  height: 70px;
+  height: 75px;
 }
 
 svg {
@@ -6095,7 +6096,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #FF4800 !important;
+  background-color: #002d13 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6165,7 +6166,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #4c1a54e8 !important;
+  background-color: #002d13 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
